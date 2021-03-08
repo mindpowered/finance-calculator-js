@@ -1,0 +1,10 @@
+{
+    "license": "MIT",
+    "name": "@mindpowered/financecalculator",
+    "version": "0.0.1",
+    "description": "Financial calculations such as Net Present Value, Present Value, Future Value",
+    "main": "index.js",
+    "dependencies": {
+        "@mindpowered/maglev": "*"
+    }
+}
